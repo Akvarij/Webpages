@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image:url("rim.jpg");
+    background-position: 75% 25%;
+    background-repeat: no-repeat;
+    height: 485px;
+   
+}
+.jumbotron p {
+    color: #999999;
+}
+.Ozadje {
+    height: 100%;
+    width: 100%;
+    background-color: #eee;
+}
+h2 {
+    border-bottom: 1px #999999 solid;
+}
+.col-md-8 {
+    text-align: left;
+    padding-bottom: 10%;
+}
+.col-md-4 img {
+    height: 320px;
+    padding-top: 30px;
+}

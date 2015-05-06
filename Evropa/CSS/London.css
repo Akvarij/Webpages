@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url("london_2423609k.jpg");
+    background-position: 75% 25%;
+    background-repeat: no-repeat;
+    height: 485px;
+}
+.jumbotron p {
+    color: #999999;
+}
+.Ozadje {
+    height: 100%;
+    width: 100%;
+    background-color: #eee;
+}
+h2 {
+    border-bottom: 1px solid #999999;
+   
+}
+
+.col-md-8 {
+    text-align: left;
+    padding-bottom: 8%;
+}
+.col-md-4 img {
+    height: 300px;
+    padding-top: 30px;
+}
+.col-md-4 {
+    padding: 0px;
+}

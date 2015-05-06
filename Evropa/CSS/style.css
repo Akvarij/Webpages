@@ -1,0 +1,50 @@
+ul {
+    padding-right: 50px;
+}
+
+.navbar-brand {
+    padding-left: 50px;
+}
+.jumbotron {
+    background-image: url("10_06_08-bled-slovenia-panorama.jpg");
+    height: 480px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.jumbotron h2 {
+    color: #fff;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+    padding-left: -20px;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
+.jumbotron .container {
+    position: relative;
+    
+}
+.thumbnail {
+    height: 600px;
+    width: 100%;
+}
+.thumbnail img {
+    height: 320px;
+    width: 100%;
+}
+.row {
+    width: 100%;
+    text-align: center;
+}
+.Ozadje {
+    height: 100%;
+    width: 100%;
+    background-color: #eee;
+}
+
+
+
